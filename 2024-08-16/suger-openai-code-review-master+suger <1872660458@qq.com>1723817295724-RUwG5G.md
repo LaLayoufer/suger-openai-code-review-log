@@ -1,5 +1,5 @@
 ```markdown
-# 小傅哥项目： OpenAi 代码评审.
+# 项目： OpenAi 代码评审.
 ### 😀代码评分：85
 #### 😀代码逻辑与目的：
 OpenAiCodeReviewService 类负责处理与 OpenAI 代码评审相关的业务逻辑，包括接收代码、调用 OpenAI API 进行代码分析，并返回分析结果。
